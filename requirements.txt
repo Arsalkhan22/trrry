@@ -1,0 +1,8 @@
+click
+pyyaml
+requests
+beautifulsoup4
+lxml
+GitPython
+PyGithub
+PyYAML
